@@ -248,7 +248,41 @@ Die Teststrategie für "BizTrips" umfasst verschiedene Ansätze, Methoden und To
 
 ## Zeitplan
 
-Zeitlicher Ablaufplan für die verschiedenen Testaktivitäten.
+**Phase 1: Vorbereitung und Planung (Woche 1-2)**
+
+- Festlegung der Testziele und -anforderungen.
+- Auswahl und Einrichtung der Testwerkzeuge und -umgebung.
+- Entwicklung des Testplans, einschließlich Rollen, Verantwortlichkeiten und Zeitrahmen.
+
+**Phase 2: Entwicklung der Testfälle und Testumgebung (Woche 3-4)**
+
+- Erstellung detaillierter Testfälle und -szenarien.
+- Einrichtung und Konfiguration der Testumgebung.
+- Überprüfung und Anpassung der Testfälle in Abstimmung mit den Entwicklern.
+
+**Phase 3: Durchführung der Tests (Woche 5-8)**
+
+- Durchführung von Unit-Tests und Integrationstests.
+- Beginn der manuellen und explorativen Tests.
+- Durchführung von UI/UX-Tests.
+- Kontinuierliche Ausführung von automatisierten Tests und Überwachung der Ergebnisse.
+
+**Phase 4: Iterative Testzyklen (Woche 9-12)**
+
+- Wiederholte Testzyklen basierend auf Feedback und Fehlerbehebungen.
+- Anpassung der Testfälle an veränderte Anforderungen oder neue Funktionalitäten.
+- Durchführung zusätzlicher Tests, wie Sicherheits- und Performance-Tests (falls zutreffend).
+
+**Phase 5: Abschluss und Dokumentation (Woche 13-14)**
+
+- Abschließende Überprüfung und Zusammenstellung der Testergebnisse.
+- Dokumentation der Testergebnisse und Empfehlungen für das Projektteam.
+- Übergabe an das Entwicklungsteam für finale Anpassungen.
+
+**Phase 6: Post-Release-Tests und Überwachung (nach Release)**
+
+- Durchführung von Post-Release-Tests, um die Performance in der Produktionsumgebung zu überwachen.
+- Sammeln von Benutzerfeedback und Monitoring der App nach dem Go-Live.
 
 ## Risiken und Gegenmaßnahmen
 
