@@ -66,8 +66,6 @@ In den folgenden Abschnitten werden die spezifischen Testziele, der Umfang, die 
 
 ## Teststrategie
 
-### Teststrategie für "BizTrips"
-
 Die Teststrategie für "BizTrips" umfasst verschiedene Ansätze, Methoden und Tools, um eine gründliche Überprüfung der App-Funktionalitäten und eine optimale Benutzererfahrung sicherzustellen.
 
 **1. Agile Testmethodik:**
@@ -136,10 +134,10 @@ Die Teststrategie für "BizTrips" umfasst verschiedene Ansätze, Methoden und To
 
 ## Annahmen und Abhängigkeiten
 
-### Annahmen für "BizTrips"
-
 1. **Stabile Testumgebung:**
-   - Es wird angenommen, dass eine stabile und konsistente Testumgebung zur Verfügung steht, in der die Tests durchgeführt werden können.
+
+- Es wird angenommen, dass eine stabile und konsistente Testumgebung zur Verfügung steht, in der die Tests durchgeführt werden können.
+
 2. **Verfügbarkeit der Daten:**
    - Es wird davon ausgegangen, dass Testdaten, einschließlich Daten für verschiedene Trip-Szenarien, verfügbar sind, um die Wishlist-Funktionalität umfassend zu testen.
 3. **Benutzerinteraktionen:**
@@ -164,7 +162,41 @@ Die Teststrategie für "BizTrips" umfasst verschiedene Ansätze, Methoden und To
 
 ## Testumgebung
 
-Beschreibung der Hardware, Software, Netzwerke und anderer Ressourcen, die für das Testen erforderlich sind.
+**1. Hardware:**
+
+- Computer mit ausreichender Leistungsfähigkeit, um die Entwicklungsumgebung und Testtools zu betreiben.
+- Verschiedene mobile Geräte (Smartphones, Tablets) mit unterschiedlichen Betriebssystemen und Bildschirmgrößen für die Durchführung von Kompatibilitätstests.
+
+**2. Software:**
+
+- Betriebssysteme: Verschiedene Betriebssysteme (wie Windows, macOS, Linux) auf den Testcomputern, um eine breite Abdeckung zu gewährleisten.
+- Browser: Mehrere Webbrowser (wie Chrome, Firefox, Safari, Edge) für Browser-Kompatibilitätstests.
+- Entwicklungs- und Testtools: Integrierte Entwicklungsumgebung (IDE), Jest für automatisierte Tests, React Testing Library für Benutzerinteraktionstests, sowie ggf. weitere Tools für spezifische Testanforderungen.
+- Versionskontrollsystem, z.B. Git, um Änderungen am Code zu verwalten und zu verfolgen.
+
+**3. Netzwerk:**
+
+- Stabile Internetverbindung für den Zugriff auf externe Ressourcen, APIs und Online-Dienste.
+- Lokales Netzwerk oder VPN-Zugang für den Zugriff auf interne Ressourcen und Server.
+
+**4. Server und Datenbanken:**
+
+- Testserver, die die Produktionsumgebung simulieren, um eine realistische Testumgebung zu schaffen.
+- Datenbankserver für die Speicherung und das Management von Testdaten.
+
+**5. Testdaten:**
+
+- Umfangreiche Sammlung von Testdaten, die verschiedene Szenarien und Nutzerinteraktionen abdecken, um die Funktionalitäten der App gründlich zu testen.
+
+**6. Zugriffsrechte und Sicherheit:**
+
+- Geeignete Zugriffsrechte für Testteams, um die notwendigen Ressourcen zu nutzen und Änderungen vorzunehmen.
+- Sicherheitsmaßnahmen, um die Integrität der Testumgebung und der Testdaten zu schützen.
+
+**7. Dokumentation und Support-Tools:**
+
+- Dokumentationstools für die Erfassung und Analyse von Testergebnissen.
+- Support-Tools wie Issue-Tracking-Systeme für das Erfassen und Verwalten von Bugs und Anomalien.
 
 ## Rollen und Verantwortlichkeiten
 
