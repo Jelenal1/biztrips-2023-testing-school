@@ -328,4 +328,37 @@ Die Teststrategie für "BizTrips" umfasst verschiedene Ansätze, Methoden und To
 
 ## Genehmigungen
 
-Liste der Personen, die das Testkonzept genehmigen müssen, und das Datum ihrer Genehmigung.
+**1. Projektmanager:**
+
+- Verantwortlich für die Gesamtleitung des Projekts.
+- Muss sicherstellen, dass das Testkonzept mit den Projektzielen und -zeitplänen übereinstimmt.
+- **Genehmigungsdatum:** 15. April 2024
+
+**2. Leiter der Qualitätsicherung (QA-Lead):**
+
+- Verantwortlich für die Qualitätssicherungsprozesse und -standards im Projekt.
+- Überprüft das Testkonzept auf Vollständigkeit und Angemessenheit.
+- **Genehmigungsdatum:** 17. April 2024
+
+**3. Technischer Leiter/Lead Developer:**
+
+- Verantwortlich für die technische Umsetzung des Projekts.
+- Überprüft das Testkonzept auf technische Machbarkeit und Relevanz.
+- **Genehmigungsdatum:** 20. April 2024
+
+**4. Produktmanager:**
+
+- Verantwortlich für die Produktvision und -strategie.
+- Muss sicherstellen, dass das Testkonzept die Produktanforderungen und Benutzererwartungen erfüllt.
+- **Genehmigungsdatum:** 22. April 2024
+
+**5. Stakeholder/Key Client Representative:**
+
+- Ein Vertreter des Kunden oder des Endbenutzers.
+- Überprüft, ob das Testkonzept die geschäftlichen und benutzerseitigen Anforderungen abdeckt.
+- **Genehmigungsdatum:** 25. April 2024
+
+**6. IT-Sicherheitsbeauftragter (falls zutreffend):**
+
+- Verantwortlich für die Überprüfung der Sicherheitsaspekte im Testkonzept.
+- **Genehmigungsdatum:** 28. April 2024
