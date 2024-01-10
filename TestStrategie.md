@@ -200,7 +200,51 @@ Die Teststrategie für "BizTrips" umfasst verschiedene Ansätze, Methoden und To
 
 ## Rollen und Verantwortlichkeiten
 
-Definition, wer für die verschiedenen Aspekte des Testprozesses verantwortlich ist.
+**1. Testmanager:**
+
+- Überwachung des gesamten Testprozesses und Sicherstellung, dass die Testziele erreicht werden.
+- Planung, Koordination und Priorisierung von Testaktivitäten.
+- Berichterstattung über den Testfortschritt und die Testergebnisse an das Projektmanagement.
+
+**2. Testentwickler:**
+
+- Entwicklung und Wartung von automatisierten Testskripten mit Werkzeugen wie Jest.
+- Erstellung von Unit-Tests und Integrationstests, um die Funktionalität und Integration der verschiedenen Komponenten der App zu gewährleisten.
+
+**3. QA-Tester (Quality Assurance):**
+
+- Durchführung manueller und explorativer Tests, um die Benutzererfahrung und die Funktionalität der App zu überprüfen.
+- Identifizierung und Dokumentation von Fehlern und Problemen.
+
+**4. UI/UX-Tester:**
+
+- Spezifische Überprüfung der Benutzeroberfläche und der Benutzererfahrung.
+- Sicherstellen, dass die App intuitiv, zugänglich und benutzerfreundlich ist.
+
+**5. Performance-Tester (falls zutreffend):**
+
+- Durchführung von Performance-Tests, um die Leistung der App unter verschiedenen Bedingungen und Lasten zu bewerten.
+- Analyse von Leistungsengpässen und Empfehlungen zur Leistungsoptimierung.
+
+**6. Sicherheitstester (falls zutreffend):**
+
+- Durchführung spezialisierter Tests, um die Sicherheit der App zu gewährleisten.
+- Identifizierung von Sicherheitslücken und Risiken.
+
+**7. DevOps-Ingenieur:**
+
+- Einrichtung und Wartung der Testumgebung und der Continuous Integration-Pipeline.
+- Unterstützung bei der Automatisierung des Testprozesses.
+
+**8. Produktmanager:**
+
+- Bereitstellung von Anforderungen und Spezifikationen für die Testteams.
+- Entscheidungsfindung auf Basis von Testergebnissen und Feedback.
+
+**9. Stakeholder/Business Analyst:**
+
+- Bereitstellung von Business-Anforderungen und -Erwartungen.
+- Überprüfung der Testergebnisse, um sicherzustellen, dass sie den Geschäftsanforderungen entsprechen.
 
 ## Zeitplan
 
