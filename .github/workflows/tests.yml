@@ -1,0 +1,24 @@
+name: Run Tests
+
+on:
+  push:
+    branches:
+      - main  # Replace with your main branch name
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'  # Update Node.js version to 16.0.0 or later
+
+    - name: Install dependencies
+      run: yarn install  # Use yarn for installing dependencies
+
+    - name: Run tests
+      run: yarn test  # Use yarn for running tests
